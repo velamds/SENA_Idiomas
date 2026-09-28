@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-28T10:24",
+ "generado": "2026-09-28T16:39",
  "idiomas": [
   {
    "id": "ingles",
@@ -11358,6 +11358,2970 @@
            "ob": "ob12",
            "titulo": "Lesson Test",
            "url": "https://velamds.github.io/Ingles_General_B2_3_16/ob12/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ingles-proposito-especifico-adsi",
+     "nombre": "Inglés con Propósito Específico · ADSI",
+     "niveles": [
+      {
+       "id": "A1_1",
+       "nombre": "A1.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n1le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Introduction to Software Engineering",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Software Engineering Main Concepts",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Software Engineering: the Interface",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Software Engineering vs. Computer Science",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Basics on Systems Theory and Cybernetics",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Systems Theory History",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Information, Data, and System Concepts",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "What is a Business?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Processes Involved in a Business",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Information Systems and Business",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Diagramming a Business Process",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n1le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Actors and Actions in the Business Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Types of Software",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Application Software vs System Software",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Hardware",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Operating Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Programming Language",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "The Business Processes Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Business Diagram Stages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "The Business Process Model and Notation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Collection Information Tools: Observation, Interviews and Document Reviews",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Collection Information Tools: Surveys, Focus Groups and Cases of Study",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Tools to Collect Information",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_1_02/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A1_2",
+       "nombre": "A1.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n2le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What is Object Oriented Programming?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Why Use Object Oriented Programming?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Object Oriented Programming Principles",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Benefits of Object Oriented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Unified Modelling Language, UML: A Methodology?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "UML Class Diagrams",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "UML Syntax",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Types of Association in UML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Package Diagrams in UML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "UML Object Diagrams",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "UML Sequence Diagrams",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Computing History and Object Oriented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n2le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Procedural Programming vs Object Oriented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Basics on Hyper Text Markup Language, HTML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Is HMTL a Programming Language?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "HTML Basic Tags",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "HTML Attributes",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "HTML Formatting",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "HTML Layouts",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "HTML Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "HTML URL Encoding",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Unified Modelling Language, UML 2.0: Differences with Basic UML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Modeling Diagrams in UML 2.0",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "A Brief History of HTML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe8n2le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What Is a Source-Code Editor?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Compiler: Concept and Use",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Interpreter: Concept and Use",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Are There Free HTML Editors?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Features for a Free Online HTML Editor",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "What Is ASP.NET?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "ASP.NET Components",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Projects and Solutions in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "ASP.NET Life Cycle",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "HTML Server Controls for ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "What is MySQL?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The Importance of HTML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A1_2_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A2_1",
+       "nombre": "A2.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n3le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What Is a Requirement Analysis?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "What Types of Requirements Do You Know?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Software Requirements!",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Requirement Elicitation Process and Techniques",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "The Concept of Information Management",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "How to Write a Work Plan",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Do You Know What a Gantt Chart Is?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Creating a Gantt Chart: Step 1",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Creating a Gantt chart: Step 2",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Creating a Gantt chart: Step 3 and 4",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Excel vs. Google Calendar vs. Gantt chart",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "What is Project Management?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n3le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "IT Solutions for Your Enterprise.",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "I'm Your Solution Provider",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "An Introduction to Object Oritented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "OOP Development (Object Oriented Programming)",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Classes and Objects in OOP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "A Brief Description of Software Engineering History",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Inheritance, Polymorphism and Overloading in OOP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Encapsulation and Trends in OOP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "What Is a Programming Tool?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Programmer vs Software Developer",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "The Client in Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Data, Information and Knowledge",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe8n3le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Data Flow Diagram, Facts and Its History",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Data Flow Diagrams, Data Flows",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Data Flow Diagrams, Processes and Data Stores",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Data Flow Diagrams, Direction of Flow and External Entities",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Modelling Hierarchy in Data Flows",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "What Is HTML?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Basic Concepts on HTML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "What is The Structure of HTML?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "What Does UML Mean?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Understanding UML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The Future of Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_1_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A2_2",
+       "nombre": "A2.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n4le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "The Software and Hardware Engineer",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Computer Security Specialist",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Director of Technology",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Application Developer",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Network and Database Administrators",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Hottest Jobs in Information Technology",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "API, Application Program Interface",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "CASE, Computer Aided Software Engineering",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Design Patterns",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "What Does Computer Architecture Mean?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Computation and Computer Architecture",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The Supercomputer",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n4le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Information Design",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Physical to Digital",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Art and the Computer",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Color in Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Graphics Formats, BMP, EPS and GIF",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Green PC",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Graphics Formats, JPG, PCX, TIFF",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Sales Trend Analysis",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Organizations and Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Customer Profiling",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Customer Relationship Management",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "New Opportunities and Challenges",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe8n4le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Computer Based information Systems, CBIS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Resources in Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Data Resources in Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Network Resources in Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Computers and Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Information Technology and Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Vulnerability in Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Information Security Exposure",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "How Information Systems Are Transforming Business",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "What's New in Management Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Management Information Systems in Your Pocket",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_A2_2_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B1_1",
+       "nombre": "B1.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n5le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Create, Retrieve, Update and Delete",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "CRUD Stored Procedures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "CRUD in Web Development",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Performing CRUD Operations",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "CRUD and Databases",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "CRUD Summary",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "The Software Architecture",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Architectural Designs",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Types of Enterprise Architecture",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "The Architecture Design Process",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "The 4+1 View Model",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Key Architecture Principles",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n5le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Functional and Non-functional Requirements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Functional Requirements Components",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Functional Requirements: Use Case and Use Story",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "The Business Requirements and the Functional Requirements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Requirements Measures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "How to Create Good Requirements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Data Validation Methods",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Where to Perform Data Validation?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Common Issues in Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Previous Experiences with Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Data Validation Overview",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe8n5le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What is a Layout?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Elements in Graphic Design",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Usability in System Design",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Design and Colors",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "The Color Theory",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Web Design Tips",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Data Warehouse",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Query-Driven Approach and Update-Driven Approach",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Data Warehouse Tools and Utilities",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Data Warehouse Architecture Layers",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Data Warehouse vs Operational Database",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Data Warehouse Components and Design",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_1_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B1_2",
+       "nombre": "B1.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n6le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Hardware Peripheral Devices",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Internal Peripheral Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "External Peripheral Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Secondary Storage Devices",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Types of Storage",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Solid-state Storage and Storage in the Cloud",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Architecture Styles",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Event-based, Layered and Repository Styles",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Heterogeneous Architecture Styles",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Rule-based, Publish-subscribe and Peer to Peer Architecture Styles",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Message Bus Architecture",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "An Architecture Style Case of Study",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n6le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Types of Server",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Server Operating Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "The Client and The Server Computers",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Batch and Multi-programmed operating systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Multi-tasking, Multi-processor and Distributed OS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Operating Systems History",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Manual, Guide or Instructions?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "User Manual Good Practices",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "How to Create a User Manual",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "The Importance of User Manuals",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "The User Manual Sections",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The User Manual Outline",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe8n6le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Software Testing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Types of Software Testing: Part 1",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Types of Software Testing: part 2",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Test Estimation Good Practices",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Estimating Techniques",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Software Tests and Estimating Techniques",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Types of Data Movements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Misconceptions about Data Migration",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Common Issues When Data Migrating",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Data Backup",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Types of Data Backups",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Data Movements and Backups",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_2_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B1_3",
+       "nombre": "B1.3",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n7le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Basics of a Software License",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Tips and Tricks for IT Negotiation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Problems Found in Technology Negotiation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Three Negotiation Strategies",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Negotiating Software License",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Legal Considerations When Negotiating Technology Contracts Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Purchasing or Licensing IT Systems: Tips",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Managing Risks with Technology Contractors",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Types of Cloud Computing Services",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Insurance for Cloud Computing Services",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Cloud Computing Service Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Components of a Cloud Contract",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe8n7le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Golden Rules for Cloud Contracts",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Outsourcing to the Cloud: Data Security and Privacy Risks",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Advantages to Cloud Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Challenges to Cloud Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Contrasting Benefits and Challenges of Cloud Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Key Provisions in Service Level Agreements, SLA",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Reviewing Legal Aspects of Software License Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Negotiating a Warranty Section in Software Contracts",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "The Concept of Intellectual Property Infringement",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Software License Agreements: Scope",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Software License Agreements: Infringement",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Liability Caps",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe8n7le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "An Introduction to Software License Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Software Quality Promises: Warranties, Remedies and Disclaimers",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Acceptance Testing for Software License Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Maintenance and Support for Software License Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Fees and Related Matters in Software License Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Source Code Escrow Arrangements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "General Indemnities in Software License Agreements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Tips on IT Procurement: Check the Contract",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Tips on IT Procurement: What Are the Deliverables?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Tips on IT Procurement: Suppliers Must Not Walk away",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Tips on IT Procurement: What the Company Is Paying for",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Tips on IT Procurement: Protect Intellectual Property",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B1_3_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B2_1",
+       "nombre": "B2.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe8n8le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "An Overview on Agile Software Development",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Quality Metrics: A Guide to Measuring Software Quality",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Defect Tracking and Its Purpose",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Is the Data You Collect Adding Value?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Questions to Help Decide When to Track Defects",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Focusing on the Most Valuable Data",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "When Defect Tracking Is not Necessary",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Can Defect Tracking Have Negative Implications?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Looking at Code Coverage for the First Time",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "How Useful Is Code Coverage as a Measure?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Test Metrics Programs Failing?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Things to Look for in a Metrics Testing Program",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_ADSI_B2_1_01/ob12/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ingles-proposito-especifico-programacion-y-software",
+     "nombre": "Inglés con Propósito Específico · Programación y Software",
+     "niveles": [
+      {
+       "id": "A1_1",
+       "nombre": "A1.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n1le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What Is Programming?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "The Concept of Programing Logic",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "What Is an Algorithm?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Algorithm in Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Programming Logic and Syntax",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Boolean Logic and Boolean Algebra",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Boolean and Comparison Operators",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Conditional Statements",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "The Binary Number System",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "What Is Object Oriented Programming?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Concepts in Object Oriented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Pseudocode and Its Importance",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n1le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Hardware and Software Industries",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Software before Computers",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Alan Turing and the Turing Machine",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "The First Electronic Computers",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "The Origins of Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "System 360 and OS360",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "The Age of Software",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Database Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "The Starting Point of Minicomputers",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Personal Minicomputers, PC",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "The PC Software Industry",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The IBM PC and Microsoft",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_1_02/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A1_2",
+       "nombre": "A1.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n2le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What Is a Computer Program?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "What is Programming?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Imperative Languages in Software Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Declarative languages in Software Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Source Code",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Human-Readable Medium",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Language Syntax",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "How to Read Grammars in Language Syntax",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Language Semantics",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Formal Semantics, the Kernel Language Approach",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Values and Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Basic Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n2le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Software Development and Engineering: Applet",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "API, Application Program Interface",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Bugs and Debugging",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "CASE, Computer Aided Software Engineering",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Documentation of Program Code",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "DOM \"Document Object Model\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Open Source Movement",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Microsoft. NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Plug-in",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Pseudocode",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Structured Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The Arithmetic Logic Unit (ALU)",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe7n2le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Automatic Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Encapsulation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Functional Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Modeling Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Nonprocedural Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Ontologies and Data Models",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Internet Applications Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Linguistics and Computing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Queue",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Scripting Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Quality Assurance",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Programming Issues",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A1_2_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A2_1",
+       "nombre": "A2.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n3le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Data",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Data Abstraction",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Data Acquisition",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "The Acquisition System and Its Components",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Applications of Data Acquisition Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Data Security and Data Integrity",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Data Accessibility",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Database Structure",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Data Communications",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Applications of Data Communications",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Data Compression",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Data, Information and Knowledge",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n3le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Data Conversion",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Data Dictionary",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Data Mining",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Data Security",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Data Structures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Types of Data Structures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Implementation Issues on Data Structures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Data Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Structured Data Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Data Warehouse",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Implementation of a Data Warehouse",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Decision Support System",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe7n3le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What Does Data Validation Mean?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Error Correction When Transmitting Data",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Error Handling and Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Types of Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Issues in Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Smart Data Validation",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Query-Driven vs. Update-Driven Approach, Advantages and Disadvantages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Tools and Utilities",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Architecture and Layers in Data Warehousing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Data Warehouse and Operational Database",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Designing Data Warehouses",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "A Short History of Data Warehousing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_1_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A2_2",
+       "nombre": "A2.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n4le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "The History of Language Programming, Early History",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "First Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "The Fundamental Paradigms",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "The 80's",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "The Internet Age",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Important People for Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "CORBA \"Common Object Request Broker Architecture\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "CASE \"Computer Aided Software Engineering\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Program Paradigm",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "OOP \"Object Oriented Programming\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Welcome to UML \"Unified Modelling Language\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The Future of Language Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n4le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "The UML is not Sufficient",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Various Approaches to Modeling in Software Development",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Diagrams in UML 2X, the Activity Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "The Class Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Communication Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Importance of Extending UML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Component Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Composite Structure Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Deployment Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Interaction Overview Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Object Diagram",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "XP and UML?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe7n4le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Inheritance",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Class Based Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Prototype-Based Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "RUP \"Rational Unified Process\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "RUP vs UML \"Rational Unified Process vs Unified Modelling Language\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Most Popular Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "SQL",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Java vs Java Script",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "C# \"C Sharp\"",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The Most Efficient Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_A2_2_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B1_1",
+       "nombre": "B1.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n5le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Basic Elements on Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Procedural and Object Oriented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Advanced Concepts on Object Oriented Programming",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Types of Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Programming Languages: C, C++ and C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Other Popular Programming Languages",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": ".NET Framework: What Is a Form?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Security in the .NET Framework",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Events in the .NET Framework",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Data Binding in the .NET Framework",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Creating an Application in the .NET Framework",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Importance of .NET Programming for a Software Development Company",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n5le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Primitive Data Types in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Java Data Types: Short, Int and Long",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Char Data Type in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "String Data Type in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Boolean Data Type in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Comments in Java: Syntax and Examples",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Final Keyword in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Assignment Operators in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "If Statements in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Switch Statement in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Inheritance in Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Handling Exceptions in Java: Try and Catch",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe7n5le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "An Overview on C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "C# Environment",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "What Is the Program Structure of C#?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Basic Syntax in C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "C# Data Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Balancing Views on C# and Java",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Variables in C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Constants in C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Classes in C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Inheritance in C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Exception Handling in C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Understanding Differences Between C and C#",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_1_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B1_2",
+       "nombre": "B1.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n6le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "An Introduction to ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Life Cycle in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Core Sections in an ASP.NET Page",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Event Handling in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Server Object in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Request Object in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Response Object in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "HTML Server Controls in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Client -Side Coding In Asp.Net",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Basic Controls Available in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Directives in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Database Access in ASP.NET",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n6le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Basics on PHP, Hypertext Preprocessor",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "PHP Syntax",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Variables in PHP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Output Statements in PHP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "PHP Basic Data Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Importance and Benefits of PHP Web Application Development",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "PHP Basic Strings",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "PHP Basic Constants",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "What Does PHP Operators mean?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Conditional Statements in PHP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "PHP Superglobals",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "The History of PHP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe7n6le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "An Overview on Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Syntax in Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Variables in Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Operators in JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Conditional Statements in Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Importance of Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Switch Case in JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "While Loops in JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "For Loop in JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Functions in JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Events in JavaScript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "A Brief History of Javascript",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_2_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B1_3",
+       "nombre": "B1.3",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n7le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Breaking down Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Computer Based Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Data in Computer Based Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Understanding Data Resources",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Network in Computer Based Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "What Can Be Considered a Vulnerability?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Information Technology and Information Systems",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Information Systems for Business Effectiveness",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "The Concept of Information Overload",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Trends in Information Technology",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Elements of Information System Model",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Future Trends in Information Systems Management",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "enpe7n7le02",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Database Management System, DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Users in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Architecture of DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Data Models in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Data Schemas in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Data Independence in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Entity Relationship Model, ER, in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "ER Diagram Representation in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Generalization in the ER Model",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Relational Data Model in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "ER Model to Relational Model in DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "SQL Programming Language for DBMS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "enpe7n7le03",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Grid and Application Architecture for Databases",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Physical Database Structures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Logical Database Structures",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Schemas and Common Schema Objects",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Database Background Processes",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Accessing the Database",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Real Application Testing",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Concurrency Features",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Manageability Features",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Backup and Recovery Features",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "High Availability",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Business Intelligence Features",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B1_3_03/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "B2_1",
+       "nombre": "B2.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "enpe7n8le01",
+         "titulo": "empty",
+         "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "What is HTML?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Editors and Basics on HTML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "HTML Elements and Attributes",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Headings, Paragraphs and Styles in HTML",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "WYSIWYG What You See Is What You Get",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "The Importance of CSS",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "What is PHP?",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Syntax and Variables in PHP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "PHP Data Types",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Strings and Constants in PHP",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "Operators and If… Else…Else if",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Software Engineering!",
+           "url": "https://velamds.github.io/Ingles_Proposito_Especifico_Programacion_y_Software_B2_1_01/ob12/"
           }
          ]
         }
