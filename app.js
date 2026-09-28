@@ -320,8 +320,6 @@
         idioma.programas.forEach(function (p) { programas.push({ idioma: idioma, programa: p }); });
       });
       construirIndice();
-      var f = new Date(data.generado);
-      $("generado").textContent = "Actualizado el " + f.toLocaleDateString("es-CO", { day: "numeric", month: "long", year: "numeric" }) + ".";
       render();
       progAnterior = actual().programa.id;
     })

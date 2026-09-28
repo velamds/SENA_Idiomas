@@ -191,6 +191,8 @@ mark { background: #fff3a8; color: #1d2a33; border-radius: 2px; }
 .estado { margin: 3rem 0; color: var(--texto-2); text-align: center; }
 .pie { color: var(--texto-2); font-size: .85rem; border-top: 1px solid var(--borde); padding-top: 1rem; padding-bottom: 2rem; margin-top: 2rem; }
 .pie p { margin: .3rem 0; }
+.creditos a { color: var(--texto-2); text-decoration: none; border-bottom: 1px dotted currentColor; }
+.creditos a:hover { color: var(--verde-osc); border-bottom-style: solid; }
 
 /* Portada de cada lección (index.html de la raíz de cada repositorio; carga esta hoja desde SENA_Idiomas) */
 a.brand { text-decoration: none; color: inherit; }
