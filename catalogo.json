@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-28T07:04",
+ "generado": "2026-09-28T10:21",
  "idiomas": [
   {
    "id": "ingles",
@@ -11358,6 +11358,3312 @@
            "ob": "ob12",
            "titulo": "Lesson Test",
            "url": "https://velamds.github.io/Ingles_General_B2_3_16/ob12/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "frances",
+   "nombre": "Francés",
+   "programas": [
+    {
+     "id": "frances",
+     "nombre": "Francés",
+     "niveles": [
+      {
+       "id": "preA1",
+       "nombre": "Pre A1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "frn1le01",
+         "titulo": "Comment vous appelez-vous ?",
+         "url": "https://velamds.github.io/Frances_Pre_A1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Bonjour&#8239;!",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Qui sont-ils ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Bonjour, je m'appelle Coraline",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "A, B, C...",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Comment &#233;peler ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La famille de Pierre",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "C'est votre nouveau prof !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Remplissez ce formulaire, s'il vous pla&#238;t !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "La f&#234;te d'anniversaire",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Mon nouveau num&#233;ro de t&#233;l&#233;phone",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Parlons de vous !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_Pre_A1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "frn1le02",
+         "titulo": "De nouvelles rencontres",
+         "url": "https://velamds.github.io/Frances_Pre_A1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Qui est David ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "D'o&#249; vient-elle ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Est-ce que tu parles chinois ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Parlons-en !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Peux-tu me passer du fromage, s'il te pla&#238;t !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "D&#233;jeunons !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Puis-je avoir un sandwich au jambon ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Poser les bonnes questions !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Et tes courses ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Est-ce que Marie a besoin d'aide ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Peux-tu me passer les carottes ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_Pre_A1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "frn1le03",
+         "titulo": "Des gens et des lieux",
+         "url": "https://velamds.github.io/Frances_Pre_A1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "O&#249; habites-tu ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "O&#249; habite-t-elle ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Quel est le chemin pour aller &#224; la biblioth&#232;que ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Comment s'y rendre ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Y a-t-il un dictionnaire ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Es-tu dans la cuisine ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Comment est votre maison ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! C'est &#224; vendre ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Comment &#231;a va ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "La voici !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Y a-t-il des crayons ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_Pre_A1_03/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 4,
+         "codigo": "frn1le04",
+         "titulo": "Le petit quotidien",
+         "url": "https://velamds.github.io/Frances_Pre_A1_04/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Tu fais quoi dans la vie ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Une journ&#233;e habituelle",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Quelle est ta routine quotidienne ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "&#192; quelle heure te l&#232;ves-tu ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "&#192; quelle heure prend-elle son petit d&#233;jeuner ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Vous allez souvent &#224; la biblioth&#232;que ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Travaille-t-elle tous les jours ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Combien de fois... ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Qu'est-ce qu'elle aime faire ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Es-tu &#224; l'heure ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! &#192; quelle heure... ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_Pre_A1_04/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 5,
+         "codigo": "frn1le05",
+         "titulo": "R&#233;soudre des probl&#232;mes",
+         "url": "https://velamds.github.io/Frances_Pre_A1_05/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "O&#249; puis-je trouver... ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Y a-t-il de la moutarde au frigo ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Dans la salle des fournitures",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "C'est l'heure de d&#233;jeuner ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le d&#233;jeuner d'affaires",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Allons &#224; la caf&#233;t&#233;ria !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "De la cr&#232;me pour votre caf&#233; ? Non, merci !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Pourrais-je avoir un dessert, s'il vous pla&#238;t ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Coupez les tomates !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Qui cuisine au barbecue ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Je vous aide volontiers !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_Pre_A1_05/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 6,
+         "codigo": "frn1le06",
+         "titulo": "L'histoire de sa vie",
+         "url": "https://velamds.github.io/Frances_Pre_A1_06/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "O&#249; est-elle n&#233;e ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Elle a &#233;t&#233; magicienne",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Quel a &#233;t&#233; son m&#233;tier en 1885 ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Pourquoi a-t-elle &#233;t&#233; une h&#233;ro&#239;ne ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Pourquoi est-elle c&#233;l&#232;bre ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La reine de la chanson",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Bonne chance !",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Laissez-moi vous dire...",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Comment s'est d&#233;roul&#233;e la f&#234;te ?",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Souvenirs d'enfance",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! De retour au cirque",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_Pre_A1_06/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A1_1",
+       "nombre": "A1.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "frn2le01",
+         "titulo": "Commencer",
+         "url": "https://velamds.github.io/Frances_A1_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Bonjour !",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Enchant&#233; !",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Comment &#231;a va ?",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Je m'appelle N-A-T-H-A-L-I-E",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "D'o&#249; viens-tu ?",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Connaissez-vous le quartier ?",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Au coin de la rue !",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Blog",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Combien &#231;a co&#251;te ?",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Mes choses pr&#233;f&#233;r&#233;es",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! O&#249; est le restaurant ?",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "frn2le02",
+         "titulo": "De nouvelles rencontres",
+         "url": "https://velamds.github.io/Frances_A1_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Je m'appelle...",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "C'est quand ?",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Un jour de repos",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "&#192; propos de Christophe",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le sac &#224; dos perdu",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La semaine de Charlotte",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Similaire mais diff&#233;rent",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Remplissez ce formulaire, s'il vous pla&#238;t !",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Les formulaires c'est pas mon truc",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Merci pour l'invitation, mais...",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Quel est ton num&#233;ro de t&#233;l&#233;phone ?",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "frn2le03",
+         "titulo": "Dans un caf&#233;",
+         "url": "https://velamds.github.io/Frances_A1_1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Se rencontrer dans un caf&#233;",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Qu'est-ce que ta famille est en train de faire ?",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Une petite conversation",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Parlons du sport !",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "J'adore !",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Puis-je emprunter tes notes de cours ?",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Passer un bon moment",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un m&#233;l pour Pierre",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Un jour de pluie",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "&#202;tre en forme et en beaut&#233; !",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! La f&#234;te",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_03/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 4,
+         "codigo": "frn2le04",
+         "titulo": "Au supermarch&#233;",
+         "url": "https://velamds.github.io/Frances_A1_1_04/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Achetons des pommes !",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Qu'est-ce que tu pr&#233;f&#232;res ?",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Ce n'est pas mon dessert pr&#233;f&#233;r&#233;",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "On ach&#232;te un v&#233;lo !",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Une voisine sympa !",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Est-ce que je peux t'emprunter... ?",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Je m'en sers chaque jour",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Faire les courses",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Deux kilos de pommes de terre, s'il vous pla&#238;t !",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "&#192; la caisse",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Mati&#232;re &#224; r&#233;flexion",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_04/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 5,
+         "codigo": "frn2le05",
+         "titulo": "En ville",
+         "url": "https://velamds.github.io/Frances_A1_1_05/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Celui-ci ou celui-l&#224; ?",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Pourquoi ne pas... ?",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Qu'est-ce qu'il aime faire ?",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Tant de choix",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Je cherche...",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Est-ce disponible en noir ?",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Acceptez-vous les cartes de cr&#233;dit ?",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! En ville",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Que fait-on ce week-end ?",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "&#201;coutez !",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons !",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_05/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 6,
+         "codigo": "frn2le06",
+         "titulo": "Au parc",
+         "url": "https://velamds.github.io/Frances_A1_1_06/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "On va &#224; la boulangerie",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Tournez &#224; gauche, tournez &#224; droite",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Notre quartier",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "J'attends Charlotte",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "O&#249; est le restaurant ?",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "O&#249; est la pharmacie ?",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Le plat du jour",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Le meilleur endroit de la ville",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "C'est quoi ce bruit ?",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "La veste trou&#233;e",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! O&#249; est la laverie ?",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_06/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 7,
+         "codigo": "frn2le07",
+         "titulo": "Au magasin de v&#234;tements",
+         "url": "https://velamds.github.io/Frances_A1_1_07/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "On adore faire les magasins !",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Une nouvelle veste !",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "&#199;a me va bien ?",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "J'attends Coraline",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Allons faire des achats !",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Combien &#231;a co&#251;te ?",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "C'est les soldes !",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! &#192; la recherche des soldes",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "C'est du boulot !",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "A&#239;e, j'ai mal aux pieds !",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Une longue journ&#233;e",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_07/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 8,
+         "codigo": "frn2le08",
+         "titulo": "Pierre a un entretien d'embauche",
+         "url": "https://velamds.github.io/Frances_A1_1_08/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Fixer un rendez-vous",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "En attendant de vos nouvelles",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Se pr&#233;parer",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "La pratique conduit &#224; la perfection !",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Se pr&#233;parer pour un entretien d'embauche",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Une personnalit&#233; gagnante !",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Les v&#234;tements appropri&#233;s",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un m&#233;l professionnel !",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Pas de nouvelles, bonnes nouvelles",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Ne t'inqui&#232;te pas !",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Fini d'attendre.",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_08/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 9,
+         "codigo": "frn2le09",
+         "titulo": "Se perdre",
+         "url": "https://velamds.github.io/Frances_A1_1_09/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "O&#249; suis-je ?",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Faut-il demander de l'aide ?",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Vous allez dans la mauvaise direction !",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Tant de choix !",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Comment retourner &#224;... ?",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Prenez la ligne 7",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Le gratte-ciel en verre",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! C'est tr&#232;s facile !",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Au centre commercial",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "De retour chez soi",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Quel bus va &#224; l'h&#244;tel de ville ?",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_1_09/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A1_2",
+       "nombre": "A1.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "frn3le01",
+         "titulo": "Au restaurant",
+         "url": "https://velamds.github.io/Frances_A1_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Sortir en ville",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Pas ce soir",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Merci ! C'est moi qui paie la prochaine fois.",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "En ville",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "On parle de nourriture",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "J'y mange une fois par semaine",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "D&#233;sol&#233;e, mais je suis v&#233;g&#233;tarienne !",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! De nouveaux endroits autour de la ville !",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Est-ce que tu veux rester &#224; la maison ?",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Non merci !",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Une soir&#233;e avec des amis",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "frn3le02",
+         "titulo": "&#192; la librairie de BD",
+         "url": "https://velamds.github.io/Frances_A1_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Ast&#233;rix et Ob&#233;lix !",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Quelle BD voulez-vous acheter ?",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Le mauvais num&#233;ro.",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Un choix int&#233;ressant !",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Un travail &#224; mi-temps",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Un horaire flexible",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Des pr&#233;parations pour le salon de la BD",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Les loisirs !",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Tant de choses &#224; faire",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Si peu de temps",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Faire la queue",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "frn3le03",
+         "titulo": "Au cin&#233;ma...",
+         "url": "https://velamds.github.io/Frances_A1_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Qu'est-ce que tu veux regarder ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Un film d'horreur ou une com&#233;die ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Accro &#224; la t&#233;l&#233; !",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Qu'est-ce que tu pr&#233;f&#232;res ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "'Ast&#233;rix et Ob&#233;lix' ou 'Le fabuleux destin d'Am&#233;lie Poulain' ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Un classique moderne ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Au cin&#233;ma",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! As-tu aim&#233; le film ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Qu'as-tu regard&#233; hier soir ?",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Je dois le voir !",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Parlons du film !",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_03/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 4,
+         "codigo": "frn3le04",
+         "titulo": "&#192; l'agence de voyages",
+         "url": "https://velamds.github.io/Frances_A1_2_04/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Coraline r&#234;ve du Mexique",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Parler des vacances !",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Charlotte a besoin de vacances",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Salutations de...",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Faire une pause...",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Coraline r&#233;serve ses vacances",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "R&#233;server son h&#244;tel",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Coraline fait des achats",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Charlotte gagne au loto",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Discuter entre filles",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Pierre et Jean se sont rencontr&#233;s au resto italien",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_04/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 5,
+         "codigo": "frn3le05",
+         "titulo": "&#192; la banque&#8230;",
+         "url": "https://velamds.github.io/Frances_A1_2_05/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Mon num&#233;ro de compte bancaire est le&#8230;",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "J'aimerais obtenir une carte de cr&#233;dit !",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Merci, mais &#231;a ne m' int&#233;resse pas...",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Question d'argent",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Garder son argent en toute s&#233;curit&#233; !",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Comment voudriez-vous payer ?",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Merci pour le conseil !",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Pr&#233;parations de d&#233;part",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "R&#233;server une visite guid&#233;e",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "N'emporte pas &#231;a !",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons! &#192; bient&#244;t !",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_05/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 6,
+         "codigo": "frn3le06",
+         "titulo": "Pierre obtient un travail &#224; mi-temps",
+         "url": "https://velamds.github.io/Frances_A1_2_06/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Le coup de fil",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Quand pouvez-vous commencer ?",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "&#192; demain !",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "&#199;a semble &#234;tre une bonne id&#233;e !",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le premier jour !",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Mon poste de travail ?",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "O&#249; est-ce que je peux mettre &#231;a ?",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! L'atelier de formation",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Es-tu occup&#233; en ce moment ?",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "C'est un moment difficile",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Quelle journ&#233;e !",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_06/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 7,
+         "codigo": "frn3le07",
+         "titulo": "La route devant",
+         "url": "https://velamds.github.io/Frances_A1_2_07/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Pierre au travail",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "S'installer...",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "As-tu fini le rapport ?",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Aujourd'hui ou demain",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Une pizza avec Charlotte",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Quelque chose d'autre ?",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Qu'est-ce que tu as fait ?",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Projets de voyage",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Peut-&#234;tre demain ?",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Quelque chose d'int&#233;ressant",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Surprise !",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_07/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 8,
+         "codigo": "frn3le08",
+         "titulo": "Le d&#238;ner d'adieu",
+         "url": "https://velamds.github.io/Frances_A1_2_08/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "On va o&#249; ?",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "En tout cas, merci !",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Vous &#234;tes le bienvenu",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Rien ne vaut son chez soi",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le repas a l'air bon !",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Quel est le menu ?",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "C'est moi qui paie !",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! De bons souvenirs",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "As-tu besoin d'aide ?",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "C'&#233;tait une id&#233;e g&#233;niale !",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! La derni&#232;re conversation",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_08/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 9,
+         "codigo": "frn3le09",
+         "titulo": "&#192; l'a&#233;roport",
+         "url": "https://velamds.github.io/Frances_A1_2_09/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Au guichet d'enregistrement",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "&#192; la douane",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Y a-t-il un probl&#232;me ?",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "V&#233;rifiez votre billet !",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le billet de premi&#232;re classe",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Comment &#233;pelez-vous votre nom de famille ?",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Pouvez-vous r&#233;p&#233;ter s'il vous pla&#238;t ?",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Une nouvelle valise",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Trop de compartiments !",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "D&#233;sol&#233; pour le retard",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! &#192; vos marques, pr&#234;ts, partez !",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A1_2_09/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A2_1",
+       "nombre": "A2.1",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "frn4le01",
+         "titulo": "Le temps des voyages",
+         "url": "https://velamds.github.io/Frances_A2_1_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "S&#233;jour &#224; l'&#233;tranger",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Charlotte &#224; Paris",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Tant de choses &#224; faire !",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Un petit d&#233;jeuner parisien",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "La ville lumi&#232;re",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Acheter des souvenirs...",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Mon endroit pr&#233;f&#233;r&#233;",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un bref guide touristique de la ville",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Une visite guid&#233;e",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Les retrouvailles avec Pierre et Jean",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Coraline au Mexique",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "frn4le02",
+         "titulo": "Coraline &#224; San Francisco",
+         "url": "https://velamds.github.io/Frances_A2_1_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Une nouvelle ville",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Un tour pittoresque",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Les rues de San Francisco",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Un tour de la c&#244;te ouest",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Alcatraz",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La semaine du chocolat",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "&#202;tre friand de friandises",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Le formulaire de suggestions",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "La fabrique de chocolat Giovanelli",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "L'&#233;cole de cuisine",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Les confiseries de la ville",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "frn4le03",
+         "titulo": "Jean : La vie &#224; bord d'un navire de croisi&#232;re",
+         "url": "https://velamds.github.io/Frances_A2_1_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Jean tombe malade",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Chez le docteur",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Salutations du Costa Rica",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Y est-on d&#233;j&#224; ?",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Bienvenue en Am&#233;rique du Sud",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "J'aimerais bien, mais...",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Nager avec les dauphins",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Vous devez essayer",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "De nouvelles exp&#233;riences",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Jean essaie de nouveaux sports",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! De nouveaux int&#233;r&#234;ts",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_03/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 4,
+         "codigo": "frn4le04",
+         "titulo": "Coraline &#224; l'&#233;cole de cuisine : la cuisine italienne",
+         "url": "https://velamds.github.io/Frances_A2_1_04/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Coraline a &#233;t&#233; accept&#233;e !",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Apprendre &#224; pr&#233;parer des spaghettis",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Des p&#226;tes tous les jours !",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "De mieux en mieux",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Un d&#233;fi culinaire",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Les traditions culinaires italiennes",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Une excellente recette",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Une question de traditions",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Charlotte part en voyage !",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Survoler les Alpes...",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Les tout premiers skis connus",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_04/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 5,
+         "codigo": "frn4le05",
+         "titulo": "Charlotte en Espagne",
+         "url": "https://velamds.github.io/Frances_A2_1_05/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "L'Office de tourisme",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Tol&#232;de",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Au c&#339;ur de l'Espagne",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Que faire en ville ?",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Les attractions de l'Espagne",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Donner des indications de direction",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Les courses des taureaux &#224; Pampelune",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un carnet de voyage",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Une blogueuse en Espagne",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Le dernier d&#238;ner en Espagne",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Pr&#234;te &#224; partir !",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_05/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 6,
+         "codigo": "frn4le06",
+         "titulo": "Jean au Br&#233;sil",
+         "url": "https://velamds.github.io/Frances_A2_1_06/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Le Carnaval",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Des chars et des costumes",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Allons au d&#233;fil&#233; !",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Le temps de c&#233;l&#233;brer",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Les for&#234;ts tropicales br&#233;siliennes",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Un monde fragile",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Pr&#233;server les arbres",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un nouveau mode de vie",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Travailler dans une for&#234;t tropicale",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Tout sur le caf&#233;",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Les merveilles naturelles du Br&#233;sil",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_06/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 7,
+         "codigo": "frn4le07",
+         "titulo": "Coraline &#224; l'&#233;cole de cuisine : La cuisine indienne",
+         "url": "https://velamds.github.io/Frances_A2_1_07/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Un avant-go&#251;t de l'Inde",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Des &#233;pices de l'Asie du Sud",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Un festival de rue indien",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "En ville",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Voudrais-tu aller au mus&#233;e ?",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "L'art indien",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Chez le p&#226;tissier",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un compte-rendu gastronomique",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Le repas &#224; emporter",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Peux-tu v&#233;rifier ?",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Prendre des nouvelles",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_07/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 8,
+         "codigo": "frn4le08",
+         "titulo": "Charlotte au Royaume-Uni",
+         "url": "https://velamds.github.io/Frances_A2_1_08/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Bienvenue au Royaume-Uni",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Londres est magnifique !",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Comment s'y rendre",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Aller &#224; l'abbaye de Westminster",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le palais de Buckingham",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Une visite guid&#233;e du palais",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Stonehenge",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Une visite des sites historiques",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Des questions ?",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Avant de partir",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Dans le bus",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_08/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 9,
+         "codigo": "frn4le09",
+         "titulo": "Charlotte en Europe continentale",
+         "url": "https://velamds.github.io/Frances_A2_1_09/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Le festival de Salzbourg",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Regarder de plus pr&#232;s",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Un changement de programme",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "O&#249; aller d'abord ?",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Prendre des nouvelles de Jean",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Une journ&#233;e de repos",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "R&#233;server un tour des canaux",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un voyage qui change la vie",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "All&#244;, c'est Pierre &#224; l'appareil !",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Un courriel &#224; Coraline",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Rentrer chez soi",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_09/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 10,
+         "codigo": "frn4le10",
+         "titulo": "Jean au Mexique",
+         "url": "https://velamds.github.io/Frances_A2_1_10/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "La plong&#233;e en Basse-Californie",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Les merveilles du monde sous-marin",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "La vie dans la p&#233;ninsule",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "O&#249; se trouve ?",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Un gros coup de soleil !",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Les f&#234;tes traditionnelles",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "La f&#234;te des morts",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un pays de traditions",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Du pain partout",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Notre-Dame de Guadalupe",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! &#192; ne pas manquer",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_10/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 11,
+         "codigo": "frn4le11",
+         "titulo": "Charlotte &#224; Montr&#233;al",
+         "url": "https://velamds.github.io/Frances_A2_1_11/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Une journ&#233;e au Mont-Royal",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Un tour guid&#233; en autocar",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "De nouveaux sommets",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Une longue promenade",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le vieux port",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La Bourse de Montr&#233;al",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Jouer &#224; la bourse",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un stade olympique",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "L'art autour de la ville",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Le d&#233;fil&#233; des g&#233;ants",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! S'&#233;vader",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_11/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 12,
+         "codigo": "frn4le12",
+         "titulo": "Le travail &#224; mi-temps de Coraline",
+         "url": "https://velamds.github.io/Frances_A2_1_12/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Une opportunit&#233; de travail",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Le processus de candidature",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Remplissez le formulaire",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Des voies ouvertes",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le code vestimentaire",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La tenue &#224; &#233;viter",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "La p&#233;riode d'essai",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Le m&#233;l professionnel",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "L'&#233;valuation professionnelle",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "De neuf heures &#224; dix-sept heures",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Le train-train quotidien",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_1_12/ob12/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "A2_2",
+       "nombre": "A2.2",
+       "lecciones": [
+        {
+         "numero": 1,
+         "codigo": "frn5le01",
+         "titulo": "Jean vient nous rendre visite",
+         "url": "https://velamds.github.io/Frances_A2_2_01/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Une f&#234;te de bienvenue &#224; la maison",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "&#199;a fait longtemps !",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Quoi de neuf au travail ?",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Le souvenir de la bague",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Des histoires du Mexique",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Des histoires de Saint-Martin",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Des histoires du Br&#233;sil",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Ce que je fais au travail",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Une promotion",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Gravir les &#233;chelons",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! De nouvelles responsabilit&#233;s",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_01/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 2,
+         "codigo": "frn5le02",
+         "titulo": "Charlotte en Russie",
+         "url": "https://velamds.github.io/Frances_A2_2_02/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Une visite du Kremlin",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "D'autres endroits merveilleux de Russie",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Au Th&#233;&#226;tre Bolcho&#239;",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Publicit&#233; pour une visite guid&#233;e",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Visiter la Place Rouge",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Napol&#233;on au Kremlin",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Les vingt tours du Kremlin",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Un peu d'histoire russe",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "La visite d'un h&#244;tel hant&#233;",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Les fant&#244;mes du pass&#233;",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! La galerie du Kremlin",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_02/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 3,
+         "codigo": "frn5le03",
+         "titulo": "Les histoires de Coraline",
+         "url": "https://velamds.github.io/Frances_A2_2_03/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "L'&#233;cole de cuisine finira bient&#244;t",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Une &#233;valuation de l'activit&#233; professionnelle",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Coraline prend des nouvelles de Charlotte",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Des fant&#244;mes au travail !",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Un nouveau d&#233;part !",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Que s'est-il pass&#233; ?",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "O&#249; trouver de petites annonces ?",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Une petite annonce",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "&#192; la recherche d'un appartement",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Deux chambres et deux salles de bains : Quel appartement choisir ?",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Un nouveau lieu de vie",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_03/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 4,
+         "codigo": "frn5le04",
+         "titulo": "Pierre rend visite &#224; Coraline &#224; San Francisco",
+         "url": "https://velamds.github.io/Frances_A2_2_04/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Pierre &#233;crit un m&#233;l &#224; Coraline",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Tu ne croiras jamais ce qui m'est arriv&#233; !",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Pierre &#224; San Francisco",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "La ville du brouillard",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "No&#235;l en France et ailleurs",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Demander quelques jours de cong&#233;",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Accordez-moi un jour de plus !",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "Charlotte prend des nouvelles de Pierre",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Pierre et Coraline parlent au t&#233;l&#233;phone",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Pierre et Coraline parlent avec Jean en ligne",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Prendre cong&#233;",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_04/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 5,
+         "codigo": "frn5le05",
+         "titulo": "Charlotte &#224; la Mer &#201;g&#233;e",
+         "url": "https://velamds.github.io/Frances_A2_2_05/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Des mythes grecs",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Le Parth&#233;non",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "L'histoire de Narcisse",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Les &#238;les grecques",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le souk turc",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Une ville sur deux continents",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Un voyage en Jordanie",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! P&#233;tra, la cit&#233; de pierre",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "La mer Morte",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Le d&#233;sert",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Charlotte au Moyen-Orient",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_05/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 6,
+         "codigo": "frn5le06",
+         "titulo": "Charlotte part en safari",
+         "url": "https://velamds.github.io/Frances_A2_2_06/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "En safari",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Les animaux africains",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "De retour du Congo",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "La le&#231;on la plus importante",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Un safari en montgolfi&#232;re",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Les histoires populaires",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Comment le serpent a perdu ses pattes",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Raconter des histoires",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "&#192; l'h&#244;tel",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "S'il pleut...",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Pr&#234;te &#224; partir",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_06/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 7,
+         "codigo": "frn5le07",
+         "titulo": "Coraline sort avec Marco",
+         "url": "https://velamds.github.io/Frances_A2_2_07/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Es-tu libre ?",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Une promenade dans le parc",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Un message t&#233;l&#233;phonique",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Parler avec Charlotte",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Au cin&#233;ma : Un film fran&#231;ais",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Quoi acheter ?",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Apr&#232;s le film",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Cher journal",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Du chocolat ?",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Une soir&#233;e agr&#233;able",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Comment va Pierre ?",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_07/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 8,
+         "codigo": "frn5le08",
+         "titulo": "Pierre se pr&#233;pare pour ses examens finaux",
+         "url": "https://velamds.github.io/Frances_A2_2_08/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Au bureau des inscriptions",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Puis-je emprunter tes notes de cours ?",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Les &#233;tudes en ligne",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Un tout nouveau monde",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le pire cours possible",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La comptabilit&#233;, quel ennui !",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Un moment de r&#233;pit",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! &#201;crire le travail final",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Partager ses probl&#232;mes",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "C'est fini !",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Et la suite ?",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_08/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 9,
+         "codigo": "frn5le09",
+         "titulo": "Pr&#233;dispos&#233;e aux accidents en &#201;gypte",
+         "url": "https://velamds.github.io/Frances_A2_2_09/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "La visite des Pyramides",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "L'une des merveilles du monde",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Gizeh : Les tombeaux des Dieux",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Napol&#233;on en &#201;gypte",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "La vall&#233;e des rois",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "La visite du Grand Sphinx",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "La visite du Caire",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! L'accident",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Un tour de chariot &#224; travers la ville",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Les rives du Nil",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! La circulation au Caire",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_09/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 10,
+         "codigo": "frn5le10",
+         "titulo": "Coraline rompt avec Marco",
+         "url": "https://velamds.github.io/Frances_A2_2_10/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Un rendez-vous qui vire au cauchemar",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Plus jamais",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Au commissariat de police",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "C'&#233;tait une erreur !",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Essayer de r&#233;gler les choses",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Recoller les pots cass&#233;s",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "On repart &#224; z&#233;ro",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Les excuses",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Pourrais-tu... ?",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "La nouvelle normalit&#233;",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Tout va bien",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_10/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 11,
+         "codigo": "frn5le11",
+         "titulo": "Charlotte trouve un emploi dans la r&#233;daction d'un magazine",
+         "url": "https://velamds.github.io/Frances_A2_2_11/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Tu travailles pour un magazine ?",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Accepter une offre de travail",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "J'ai h&#226;te de commencer",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "La nuit d'avant",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Le premier jour au bureau",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Bienvenue dans l'&#233;quipe",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "La premi&#232;re t&#226;che de travail de Charlotte",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! &#201;crire un article",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Un d&#238;ner de f&#234;te &#224; Paris",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Commander au resto",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! Je ferai de mon mieux",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_11/ob12/"
+          }
+         ]
+        },
+        {
+         "numero": 12,
+         "codigo": "frn5le12",
+         "titulo": "Charlotte est en formation au travail",
+         "url": "https://velamds.github.io/Frances_A2_2_12/",
+         "objetos": [
+          {
+           "ob": "ob01",
+           "titulo": "Quelle est la meilleure fa&#231;on ?",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob01/"
+          },
+          {
+           "ob": "ob02",
+           "titulo": "Un processus d'apprentissage acc&#233;l&#233;r&#233;",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob02/"
+          },
+          {
+           "ob": "ob03",
+           "titulo": "Cela ne marche pas toujours",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob03/"
+          },
+          {
+           "ob": "ob04",
+           "titulo": "Laisse-moi te raconter une blague !",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob04/"
+          },
+          {
+           "ob": "ob05",
+           "titulo": "Former la nouvelle employ&#233;e",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob05/"
+          },
+          {
+           "ob": "ob06",
+           "titulo": "Rattraper des comp&#233;tences",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob06/"
+          },
+          {
+           "ob": "ob07",
+           "titulo": "Le premier article de Charlotte",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob07/"
+          },
+          {
+           "ob": "ob08",
+           "titulo": "&#201;crivons ! Donner des instructions",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob08/"
+          },
+          {
+           "ob": "ob09",
+           "titulo": "Aider un coll&#232;gue",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob09/"
+          },
+          {
+           "ob": "ob10",
+           "titulo": "Une journ&#233;e fatigante mais int&#233;ressante",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob10/"
+          },
+          {
+           "ob": "ob11",
+           "titulo": "R&#233;visons ! En rentrant chez soi",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob11/"
+          },
+          {
+           "ob": "ob12",
+           "titulo": "Test",
+           "url": "https://velamds.github.io/Frances_A2_2_12/ob12/"
           }
          ]
         }
