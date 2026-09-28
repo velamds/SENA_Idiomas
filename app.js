@@ -83,7 +83,7 @@
     }).join("") + "</div>";
     html += prog.niveles.map(function (n) {
       return '<section class="nivel" id="niv-' + esc(n.id) + '">' +
-        '<div class="nivel-cab"><h3><span>' + esc(n.nombre) + "</span>Nivel " + esc(n.nombre) + "</h3>" +
+        '<div class="nivel-cab"><h3><span>Nivel</span>' + esc(n.nombre) + "</h3>" +
         "<p>" + plural(n.lecciones.length, "lección", "lecciones") + "</p></div>" +
         '<div class="grid">' + n.lecciones.map(tarjeta).join("") + "</div></section>";
     }).join("");
