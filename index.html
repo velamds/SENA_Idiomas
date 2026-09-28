@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SENA Idiomas · Lecciones</title>
+  <meta name="description" content="Índice de las lecciones de idiomas del SENA: Inglés General, Inglés con Propósito Específico, Francés y más.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="brand">
+        <span class="brand-mark">SENA</span>
+        <div>
+          <p class="brand-title">Idiomas</p>
+          <p class="brand-sub">Recursos educativos digitales</p>
+        </div>
+      </div>
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="buscar" type="search" placeholder="Buscar lección u objeto…" autocomplete="off" aria-label="Buscar lección u objeto">
+      </label>
+    </div>
+    <nav class="wrap idiomas" id="idiomas" aria-label="Idiomas"></nav>
+  </header>
+
+  <main class="wrap" id="contenido">
+    <p class="estado">Cargando lecciones…</p>
+  </main>
+
+  <footer class="wrap pie">
+    <p>El progreso de cada objeto se guarda en este navegador. Para reiniciar un objeto, ábralo con <code>?reset=1</code> al final de la dirección.</p>
+    <p id="generado"></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
